@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZYVEX AI</string>
+    <string name="tagline">YOUR PERSONAL AI</string>
+    <string name="mic_listening">Listening to your command, Sir…</string>
+    <string name="ai_thinking">Processing neural telemetry…</string>
+    <string name="ai_speaking">Transmitting response…</string>
+    <string name="ai_idle">All systems operational. Tap or speak to command.</string>
+</resources>
